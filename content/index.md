@@ -9,7 +9,7 @@ Need to find something? Use the links below. Or don’t. I'm not your parent.
 
 ---
 
-## 📌 Contents
+## Contents
 
 - [[Main Quests]]
 - [[Side Quests]]
