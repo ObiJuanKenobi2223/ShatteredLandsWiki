@@ -1,11 +1,27 @@
 ---
 title: Welcome to the Shattered Lands
 ---
+# The Shattered Lands Wiki
 
-Dit is een test om te zien of het werkt.
+Welcome to the **unofficial survival guide** to whatever the hell is happening out there. This wiki’s here to keep track of what you've discovered, who you've pissed off, and what quests you're halfway through abandoning. If it's in here, you’ve probably already stumbled across it, killed it, or talked to it.
 
-zie ook [[Hallo|Hallo]]
+Need to find something? Use the links below. Or don’t. I'm not your parent.
 
-Voor quests ga naar [[Test Quest]]
+---
 
-Test
+## 📌 Contents
+
+- [[Quests/Main Quests|Main Quests]]
+- [[Quests/Side Quests|Side Quests]]
+- [[NPCs|NPCs]]
+- [[Factions|Factions]]
+- [[Locations|Locations]]
+- [[Lore|Lore]]
+- [[Items|Items]]
+- [[Bestiary|Bestiary]]
+- [[Mechanics|Mechanics]]
+
+---
+
+This thing updates when the DM remembers to. If something’s missing, it probably means you didn’t pay enough attention.
+
