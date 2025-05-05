@@ -6,7 +6,7 @@ tags:
 # Test Quest
 
 ## Status
-- [ ] In Progress
+- [x] In Progress
 - [ ] Completed
 - [ ] Failed
 - [ ] Abandoned
