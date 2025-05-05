@@ -11,7 +11,7 @@ Need to find something? Use the links below. Or don’t. I'm not your parent.
 
 ## Contents
 
-- [[Main Quests]]
+- [[Main Quests/]]
 - [[Side Quests]]
 - [[NPCs]]
 - [[Factions]]
