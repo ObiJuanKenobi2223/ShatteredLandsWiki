@@ -11,15 +11,14 @@ Need to find something? Use the links below. Or don’t. I'm not your parent.
 
 ## Contents
 
-- [[Quests/Main Quests/]]
-- [[Side Quests]]
-- [[NPCs]]
-- [[Factions]]
-- [[Locations]]
-- [[Lore]]
-- [[Items]]
-- [[Bestiary]]
-- [[Mechanics]]
+- [[Quests/]]
+- [[NPCs/]]
+- [[Factions/]]
+- [[Locations/]]
+- [[Lore/]]
+- [[Items/]]
+- [[Bestiary/]]
+- [[Mechanics/]]
 
 ---
 
