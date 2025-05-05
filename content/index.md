@@ -18,6 +18,7 @@ Need to find something? Use the links below. Or don’t. I'm not your parent.
 - [[Items/]]
 - [[Bestiary/]]
 - [[Mechanics/]]
+- [[Session Notes/]]
 
 ---
 
