@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to the Shattered Lands
 ---
 
 Dit is een test om te zien of het werkt.
